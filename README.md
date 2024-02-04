@@ -2,7 +2,7 @@
 
 # Healthcare Chatbot "SaadikAssiha" : Your Personal Medical Assistant
 
-![Chatbot Logo](https://github.com/laggywiggl/SaadikAssiha/SaadikAssihaHome.jpg)
+![Chatbot Logo](https://github.com/laggywiggl/SaadikAssiha/blob/main/SaadikAssihaLogo.png)
 
 Welcome to our Healthcare Chatbot, your personalized medical assistant designed to provide you with accurate information on various healthcare topics. Whether you have questions about symptoms, treatments, medications, or general health advice, our chatbot is here to help.
 
