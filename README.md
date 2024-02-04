@@ -1,6 +1,8 @@
 # Medical Research Information Chatbot : SaadikAssiha
 
-This FastAPI application serves as a medical research information chatbot, utilizing various language models and vector databases for question answering.
+# Healthcare Chatbot "SaadikAssiha" : Your Personal Medical Assistant
+![LChatbot Logo](https://github.com/laggywiggl/SaadikAssiha/SaadikAssihaLogo.png)
+Welcome to our Healthcare Chatbot, your personalized medical assistant designed to provide you with accurate information on various healthcare topics. Whether you have questions about symptoms, treatments, medications, or general health advice, our chatbot is here to help.
 
 ## Features
 
