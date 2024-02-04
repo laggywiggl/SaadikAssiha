@@ -8,9 +8,15 @@ Welcome to our Healthcare Chatbot, your personalized medical assistant designed 
 
 ## Features
 
+![Chatbot Home Page ](https://github.com/laggywiggl/SaadikAssiha/blob/main/SaadikAssihaHome.jpg)
+
 - **Question Answering:** Utilizes language models to answer medical-related questions.
 - **Vector Database:** Stores chunk vectors in Qdrant Vector Database.
 - **Additional Data Storage:** Utilizes the `data_pdf` folder to store additional data for the chatbot.
+- 
+## Example usage : 
+
+![Chatbot QA Example ](https://github.com/laggywiggl/SaadikAssiha/blob/main/SaadikAssihaQA.jpg)
 
 ## Requirements
 
