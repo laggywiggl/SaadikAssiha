@@ -1,4 +1,3 @@
-# Medical Research Information Chatbot : SaadikAssiha
 
 # Healthcare Chatbot "SaadikAssiha" : Your Personal Medical Assistant
 
