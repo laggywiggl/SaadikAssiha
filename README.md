@@ -1,4 +1,4 @@
-# Medical Research Information Chatbot
+# Medical Research Information Chatbot : SaadikAssiha
 
 This FastAPI application serves as a medical research information chatbot, utilizing various language models and vector databases for question answering.
 
