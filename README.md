@@ -32,7 +32,7 @@ Welcome to our Healthcare Chatbot, your personalized medical assistant designed 
 
 1. Clone the repository:
 
-git clone https://github.com/laggywiggl/medical-research-chatbot.git
+git clone https://github.com/laggywiggl/SaadikAssiha.git
 
 2. Install dependencies:
 
